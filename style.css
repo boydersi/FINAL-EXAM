@@ -1,0 +1,22 @@
+body { background-color: #7c96e4; }
+#mycontainer {
+    background-color: #4f76a1;
+}
+body { text-shadow: 2px 2px 5px #7680c6;    
+  box-shadow: 5px 5px 5px grey;
+}
+header, footer {
+  background-color: #7c96e4;
+  color: #19022c;
+  text-align: center;
+  padding: 5px;
+ }
+
+header {
+  text-shadow: 2px 2px 5px #349aa2;
+}
+header { text-align: center; margin-top: 15%; }
+
+footer { background-color: #060505; 
+        text-align: center; margin-top: 15%;
+        color: white; }
